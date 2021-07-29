@@ -2,6 +2,6 @@
 
 module.exports = ssr;
 
-  function ssr() {
-    // TODO
+function ssr() {
+  // TODO
 }
